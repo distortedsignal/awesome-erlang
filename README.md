@@ -246,6 +246,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [erlang-history](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 * [erld](https://github.com/ShoreTel-Inc/erld) - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
+* [kerl](https://github.com/kerl/kerl) - Kerl is a tool to easily build and switch between multiple versions of Erlang/OTP.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Erlang development skills and knowledge.
